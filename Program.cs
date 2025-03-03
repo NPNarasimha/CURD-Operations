@@ -1,9 +1,6 @@
 ﻿using System;
 using Microsoft.Data.SqlClient;
 
-
-
-
 namespace CurdApp
 {
     internal class Program
@@ -21,7 +18,7 @@ namespace CurdApp
 
                 while (true) {
                 Console.WriteLine();
-                Console.WriteLine("Enter your choice ==== 1 is create Table ==== 2 for Inserting data ==== 3 for updating ==== 4 for deleting ==== 5 for Deleting ==== 6 is Exit");
+                Console.WriteLine("Enter your choice ==== 1 is create Table ==== 2 for Inserting data ==== 3 for updating ==== 4 for deleting ==== 5 for Displaying ==== 6 is Exit");
                 int choice =int.Parse(Console.ReadLine());
                     switch (choice)
                     {

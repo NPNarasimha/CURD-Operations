@@ -76,3 +76,4 @@ C:\Users\Sai Indu\source\repos\CurdApp\CurdApp\obj\Debug\netcoreapp3.1\CurdApp.c
 C:\Users\Sai Indu\source\repos\CurdApp\CurdApp\obj\Debug\netcoreapp3.1\CurdApp.dll
 C:\Users\Sai Indu\source\repos\CurdApp\CurdApp\obj\Debug\netcoreapp3.1\CurdApp.pdb
 C:\Users\Sai Indu\source\repos\CurdApp\CurdApp\obj\Debug\netcoreapp3.1\CurdApp.genruntimeconfig.cache
+C:\Users\Sai Indu\source\repos\CurdApp\CurdApp\obj\Debug\netcoreapp3.1\CurdApp.sourcelink.json
